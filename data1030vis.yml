@@ -16,5 +16,6 @@ dependencies:
  - jupyterlab_server=2.14.0
  - jupytext=1.9.1
  - rise=5.7.1
+ - plotly=5.6.0
 prefix: /opt/conda
 
