@@ -1,21 +1,23 @@
-name: data1030
+name: data1030vis
 channels:
- - conda-forge
- - defaults
+- conda-forge
+- defaults
 dependencies:
- - python=3.7.8
- - matplotlib=3.2.2
- - pandas=1.0.5
- - scikit-learn=0.23.1
- - numpy=1.18.5
- - py-xgboost=1.1.1
- - shap=0.35.0
- - jupyter_client=7.3.1
- - jupyter_core=4.10.0
- - jupyterlab=3.4.2
- - jupyterlab_server=2.14.0
- - jupytext=1.9.1
- - rise=5.7.1
- - plotly=5.6.0
+- python=3.10.4
+- matplotlib=3.5.2
+- pandas=1.4.2
+- scikit-learn=1.1.1
+- numpy=1.22.4
+- py-xgboost=1.5.1
+- shap=0.40.0
+- jupyter_client=7.3.1
+- jupyter_core=4.10.0
+- jupyterlab=3.4.2
+- jupyterlab_server=1.17.0
+- jupytext=1.13.8
+- rise=5.7.1
+- plotly=5.8.0
 prefix: /opt/conda
+
+
 
