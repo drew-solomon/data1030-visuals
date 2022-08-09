@@ -17,6 +17,7 @@ dependencies:
 - jupytext=1.13.8
 - rise=5.7.1
 - plotly=5.8.0
+- ipywidgets=7.7.0
 prefix: /opt/conda
 
 
