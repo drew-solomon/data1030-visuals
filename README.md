@@ -1,4 +1,5 @@
-# DATA1030 Visualizations - ML Classification & Gradient Descent
+# DATA1030 Visualizations - 
+ML Classification & Gradient Descent
 
 This project involved the creation of interactive visualizations for machine learning
 classification and gradient descent for the DATA1030 _Hands-on Data Science_  Brown Data Science Master’s curriculum. 
